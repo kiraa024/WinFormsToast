@@ -27,6 +27,10 @@ Installation
 
     using WinFormsExtras;
 
+Showcase
+-----
+![Demo of ToastNotification](Docs/ToastNotification/showcase.gif)
+
 Usage
 -----
 
