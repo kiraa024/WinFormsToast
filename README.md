@@ -101,18 +101,6 @@ Customization Options
 - customLifeTime – Duration in milliseconds before the toast closes.
 - customLocation – Position on screen (Point struct).
 
-Folder Structure Suggestion
----------------------------
-
-ToastNotification/
-├── README.md
-├── LICENSE
-├── Utilities/
-│   └── ToastNotification.cs
-├── Examples/
-│   └── Program.cs  (demo showing all features)
-├── .gitignore
-
 License
 -------
 
