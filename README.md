@@ -2,7 +2,7 @@ ToastNotification
 =================
 
 A fully customizable toast notification system for C# WinForms.
-Created by kira024: https://github.com/kira024
+Created by kira024: https://github.com/kiraa024
 
 Display lightweight notifications with support for custom colors, fonts, lifetime, and position.
 
